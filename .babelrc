@@ -1,8 +1,7 @@
 {
-  "presets": [],
-  "plugins": [
-    "transform-es2015-arrow-functions",
-    "transform-es2015-parameters",
-    "transform-async-functions"
-  ]
+  "presets": [
+    "stage-0",
+    "es2015"
+  ],
+  "plugins": []
 }
